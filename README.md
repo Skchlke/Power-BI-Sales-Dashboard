@@ -24,7 +24,7 @@ Profit % gauge highlights overall profitability at 63%.
 
 Contributions are welcome! If you’d like to improve this dashboard, optimize visuals, or add new features, feel free to fork the repo and submit a pull request.
 
-![alt text](Dashboard picture.png)
+![alt text](https://github.com/Skchlke/Power-BI-Sales-Dashboard/blob/main/Dashboard%20picture.png)
 
 📬 Connect With Me
 
