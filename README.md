@@ -1,5 +1,9 @@
 📊 Awesome Chocolates Sales Dashboard
+
 This project is an interactive Power BI dashboard that provides insights into the sales, shipments, profit, and performance of sales representatives across multiple regions. The dashboard helps track KPIs such as Total Sales, Shipments, Costs, and Profits while also analyzing trends by month and shipment distribution.
+
+![alt text](https://github.com/Skchlke/Power-BI-Sales-Dashboard/blob/main/Dashboard%20picture.png)
+
 
 🚀 Features
 
@@ -23,8 +27,6 @@ Profit % gauge highlights overall profitability at 63%.
 🤝 Contributing
 
 Contributions are welcome! If you’d like to improve this dashboard, optimize visuals, or add new features, feel free to fork the repo and submit a pull request.
-
-![alt text](https://github.com/Skchlke/Power-BI-Sales-Dashboard/blob/main/Dashboard%20picture.png)
 
 📬 Connect With Me
 
