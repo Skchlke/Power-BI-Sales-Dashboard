@@ -13,7 +13,7 @@ This project is an interactive Power BI dashboard that provides insights into th
 📦 Shipment trend analysis by month and distribution.
 🎯 Target Indicator with profit % gauge for business decisions.
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies:
 Power BI for dashboard design and interactivity.
 Data modeling for sales and shipment insights.
 GitHub for project sharing and collaboration.
